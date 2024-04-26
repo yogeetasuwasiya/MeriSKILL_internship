@@ -19,12 +19,7 @@ Libraries: Leveraged Pandas for data manipulation, Matplotlib and Seaborn for vi
 Tasks Performed:
 Data cleaning and preprocessing to prepare HR datasets for analysis.
 Visualization of relationships and patterns within HR data (e.g., correlation analysis, trend exploration).
-Exploration of factors influencing employee outcomes (e.g., job satisfaction, turnover) using machine learning models.
-Application of techniques such as regression or clustering to uncover insights and inform HR strategies.
-Machine Learning Models:
-
-Supervised Learning: Employed classification models to predict diabetes outcomes or analyze HR-related factors.
-Unsupervised Learning: Potentially used for clustering analysis in HR data to identify employee segments or patterns.
+Exploration of factors influencing employee outcomes (e.g., job satisfaction, turnover).
 Data Visualization: Utilized to present findings effectively and aid in decision-making.
-Python Libraries: Leveraged the power of Python's extensive ecosystem, including NumPy for numerical operations, Pandas for data manipulation, and Scikit-learn for machine learning implementations.
+Python Libraries: Leveraged the power of Python's extensive ecosystem, including NumPy for numerical operations, Pandas for data manipulation.
 These projects provided valuable hands-on experience in applying data science techniques to real-world scenarios, contributing to the development of analytical and problem-solving skills within a professional setting.
