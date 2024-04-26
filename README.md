@@ -6,6 +6,7 @@ Objective: Conducting comprehensive analysis and prediction related to diabetes 
 Tools and Libraries Used:
 Python: Leveraged as the primary programming language for data manipulation and analysis.
 Libraries: Utilized various Python libraries including Pandas for data handling, Matplotlib and Seaborn for visualization, and Scikit-learn for implementing machine learning models.
+
 Tasks Performed:
 Preprocessing and cleaning of diabetes-related datasets.
 Exploratory data analysis (EDA) to identify patterns and correlations.
